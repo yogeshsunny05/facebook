@@ -50,3 +50,4 @@ git submodule: Add, update, or remove submodules from a repository.
 Git Ignore:
 .gitignore: A file used to specify which files or directories to exclude from version control.
 These are some of the most commonly used Git commands. You can get more information about each command using git help <command> or git <command> --help. Additionally, you can find extensive documentation on Git's official website: https://git-scm.com/doc
+this is all about the git commands
