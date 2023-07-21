@@ -58,3 +58,4 @@ Certainly! Linux is a powerful operating system with a wide range of commands av
     - `passwd`: Change user password.
 
 These are just a few examples of the numerous commands available in Linux. You can find more commands and detailed information on each command using the `man` command followed by the command name (e.g., `man ls`). The `man` command opens the manual page for the specified command and provides detailed information about its usage and options.
+we are updating 
