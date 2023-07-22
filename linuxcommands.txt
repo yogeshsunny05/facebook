@@ -1,3 +1,4 @@
+updating this in dev 
 Certainly! Linux is a powerful operating system with a wide range of commands available to perform various tasks. Here are some commonly used Linux commands:
 
 1. **File and Directory Operations:**
