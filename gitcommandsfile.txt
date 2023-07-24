@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 imupdating
 we are in development branc
 h
+=======
+hiiii updating in stage
+=======
+hey...
+ master
+-----hello'''''
+we are in development branch
+>>>>>>> 62467e9e4327556c0264f833f1435fd7e2c0d280
 hi
 ChatGPT
 Below is a comprehensive list of common Git commands:
